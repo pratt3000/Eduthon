@@ -1,5 +1,7 @@
 # Eduthon-app
 
+### NOTE: YOU CAN SEE COMMITS AS WE CODED IN THE BELOW REPOSITORIES
+
 ### frontend Repo
 https://github.com/bhavika3011/eduthon_frontend
 
