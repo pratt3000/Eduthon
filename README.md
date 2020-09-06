@@ -12,6 +12,9 @@ https://github.com/AdityaKhandelwal10/eduthon-backend
 ### PPT Link
 https://drive.google.com/file/d/1tNhzRCZBtwfNvpNi8P905y4QeGgI69S9/view?usp=sharing
 
+### Apk file
+https://drive.google.com/file/d/1U_esIlNURq3PKKC7auwuwe2ukFMIxFnE/view?usp=sharing
+
 # How To Run : 
 1. Clone the Repository
 2. Open the folder in VS code [or android studio]
