@@ -1,0 +1,11 @@
+
+django
+djangorestframework
+mysqlclient
+django-storages[azure]
+django-widget-tweaks
+graphene-django>=2.0
+django-filter==2.3.0
+graphql-relay==2.0.1
+stream-chat==1.4.0
+django-graphql-jwt
